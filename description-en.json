@@ -1,4 +1,5 @@
 {
+  "description": "Queries exchange market actions such as tickers, prices, symbol info, orders, balance, portfolio, and klines from the configured trading exchange.",
   "domainCategory": "Trading",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Exchange Market",
-      "text": "Subjective datasource implementation for SubjectiveExchangeMarketDataSource.",
+      "text": "Queries exchange market actions such as tickers, prices, symbol info, orders, balance, portfolio, and klines from the configured trading exchange.",
       "image": {
         "src": "/subjective_binance_exchange_market_datasource/icon.svg",
         "alt": "Exchange Market icon"
